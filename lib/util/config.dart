@@ -5,7 +5,7 @@ class Config {
 
   Config._internal();
 
-  final String baseUrl = "https://5bde-103-121-58-197.ngrok-free.app/api";
+  final String baseUrl = "https://5517-120-188-87-27.ngrok-free.app/api";
   String formatCurrency(int value) {
     // Convert the number to a string and split it into the integer and decimal parts
     String stringValue = value.toStringAsFixed(0); // No decimal points
